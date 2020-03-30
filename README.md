@@ -4,6 +4,7 @@ ArtemSoftware Project
 This project is done by Artem Kalinovskiy. Cipherstor is a multifunctional app used to encrypt and decrypt data. It has got a lot of encryption algorythms.
 
 Encryption Algorythms:
+
 Base64 - QmFzZTY0IGV4YW1wbGU= = "Base64 example"
 
 SHA1 - a4ac7298d778b95f2673d9135f48c0eb8bd313d1 = "SHA-1 example"
