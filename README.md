@@ -1,4 +1,4 @@
-# Cipherstor
+# Encryptor / Renamed cipherstor
 ArtemSoftware Project
 
 This project is done by Artem Kalinovskiy. Cipherstor is a multifunctional app used to encrypt and decrypt data. It has got a lot of encryption algorythms.
