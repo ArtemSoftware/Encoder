@@ -30,4 +30,4 @@ And last - Symmetrical encryption algorythm, 8de236c0808bb92608f06c885c9072b4288
 
 
 
-ArtemSoftware Official: https://vk.com/artemdevofficial
+ArtemSoftware Official: https://vk.com/dssoft_official
